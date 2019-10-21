@@ -11,7 +11,7 @@
   "main": "app.js",
   "description": "NativeScript Application",
   "license": "SEE LICENSE IN <your-license-filename>",
-  "repository": "<fill-your-repository-here>",
+  "repository": "https://github.com/OriginalSin/map-mobile",
   "dependencies": {
     "nativescript-theme-core": "~2.0.21",
     "svelte-native": "~0.5.1",

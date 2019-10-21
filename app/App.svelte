@@ -2,10 +2,10 @@
     <actionBar title="My App" icon="">
     </actionBar>
     <stackLayout class="p-20">
-        <label text="Tap the button" class="h1 text-center"/>
+        <label text="Tap 1 the button" class="h1 text-center"/>
         <button text="TAP" on:tap="{ onTap }" class="-primary -active"/>
         <label text="{ message }" class="h2 text-center" textWrap="true"/>
-		<webView src="~/html/index.html" />
+		<webView src="file:///android_asset/index.html" />
     </stackLayout>
 </page>
 
